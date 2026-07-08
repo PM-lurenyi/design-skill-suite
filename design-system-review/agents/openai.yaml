@@ -1,0 +1,4 @@
+interface:
+  display_name: "设计系统审查"
+  short_description: "检查 AI 页面是否偏离项目 DESIGN.md 视觉规范"
+  default_prompt: "使用 $design-system-review 检查当前页面是否符合 docs/design/DESIGN.md。"

@@ -1,4 +1,0 @@
-interface:
-  display_name: "DESIGN.md 提炼"
-  short_description: "从页面样式截图提炼轻量设计规范草案"
-  default_prompt: "使用 $design-md-extract 从当前项目已有页面或截图中提炼 DESIGN.draft.md 和 evidence.json。"
